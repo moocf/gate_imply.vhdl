@@ -25,3 +25,4 @@ The IMPLY gate is a digital logic gate that implements a logical conditional.
 ![simulation](docs/simulation.png)
 
 ![report](docs/report.png)
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/gate_imply.vhdl)
